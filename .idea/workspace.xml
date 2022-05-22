@@ -2,20 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e550845-5196-4ec3-8752-21f8d6501dca" name="Changes" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task_221_270/Task_222.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task_221_270/Task_223.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task_221_270/Task_225.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task_221_270/Task_226.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task_221_270/Task_227.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task_221_270/Task_228.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task_221_270/Task_229.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task_221_270/Task_231.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task_221_270/Task_232.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task_221_270/Task_233.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task_221_270/Task_234.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_221_270/Task_236.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_221_270/Task_237.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_221_270/Task_244.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_221_270/Task_248.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_221_270/Task_251.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_221_270/Task_252.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_221_270/Task_253.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_221_270/Task_255.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_221_270/Task_257.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_221_270/Task_258.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_221_270/Task_261.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_221_270/Task_263.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_221_270/Task_265.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_221_270/Task_266.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_221_270/Task_269.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task_221_270/Task_221.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task_221_270/Task_221.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task_221_270/Task_234.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task_221_270/Task_234.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,16 +46,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Task_233">
-    <configuration name="Task_231" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task_221_270.Task_231" />
+}</component>
+  <component name="RunManager" selected="Application.Task_269">
+    <configuration name="Task_266" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task_221_270.Task_266" />
       <module name="Lesson2" />
       <extension name="coverage">
         <pattern>
@@ -64,8 +67,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_232" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task_221_270.Task_232" />
+    <configuration name="Task_269" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task_221_270.Task_269" />
       <module name="Lesson2" />
       <extension name="coverage">
         <pattern>
@@ -77,8 +80,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_233" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task_221_270.Task_233" />
+    <configuration name="task_221_270.Task_261" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task_221_270.Task_261" />
       <module name="Lesson2" />
       <extension name="coverage">
         <pattern>
@@ -90,8 +93,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="task_221_270.Task_228" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task_221_270.Task_228" />
+    <configuration name="task_221_270.Task_263" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task_221_270.Task_263" />
       <module name="Lesson2" />
       <extension name="coverage">
         <pattern>
@@ -103,8 +106,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="task_221_270.Task_229" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task_221_270.Task_229" />
+    <configuration name="task_221_270.Task_265" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task_221_270.Task_265" />
       <module name="Lesson2" />
       <extension name="coverage">
         <pattern>
@@ -118,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task_233" />
-        <item itemvalue="Application.Task_232" />
-        <item itemvalue="Application.Task_231" />
-        <item itemvalue="Application.task_221_270.Task_229" />
-        <item itemvalue="Application.task_221_270.Task_228" />
+        <item itemvalue="Application.Task_269" />
+        <item itemvalue="Application.Task_266" />
+        <item itemvalue="Application.task_221_270.Task_265" />
+        <item itemvalue="Application.task_221_270.Task_263" />
+        <item itemvalue="Application.task_221_270.Task_261" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +152,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653147057400</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Commit">
+      <created>1653157541956</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1653157541956</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
