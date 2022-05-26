@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e550845-5196-4ec3-8752-21f8d6501dca" name="Changes" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/src/task_221_270/Reverse_Element_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_array/Java.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_array/OddArrayReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_array/task_Arrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,13 +40,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Task_Reverse_Element_Array">
-    <configuration name="Reverse_Element_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task_221_270.Reverse_Element_Array" />
+  <component name="RunManager" selected="Application.task_Arrays">
+    <configuration name="DemoBox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task_array.DemoBox" />
       <module name="Lesson2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="task_221_270.*" />
+          <option name="PATTERN" value="task_array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -52,12 +54,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_266" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task_221_270.Task_266" />
+    <configuration name="Java" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task_array.Java" />
       <module name="Lesson2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="task_221_270.*" />
+          <option name="PATTERN" value="task_array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,25 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_269" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task_221_270.Task_269" />
+    <configuration name="OddArrayReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task_array.OddArrayReverse" />
       <module name="Lesson2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="task_221_270.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="task_221_270.Task_263" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task_221_270.Task_263" />
-      <module name="Lesson2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="task_221_270.*" />
+          <option name="PATTERN" value="task_array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,13 +93,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="task_Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task_array.task_Arrays" />
+      <module name="Lesson2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task_array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task_Reverse_Element_Array" />
-        <item itemvalue="Application.task_221_270.Task_269" />
-        <item itemvalue="Application.task_221_270.Task_266" />
+        <item itemvalue="Application.task_Arrays" />
+        <item itemvalue="Application.OddArrayReverse" />
+        <item itemvalue="Application.Java" />
+        <item itemvalue="Application.DemoBox" />
         <item itemvalue="Application.task_221_270.Task_265" />
-        <item itemvalue="Application.task_221_270.Task_263" />
       </list>
     </recent_temporary>
   </component>
@@ -151,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653230465597</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Commit">
+      <created>1653232105638</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1653232105638</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
