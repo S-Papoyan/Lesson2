@@ -111,7 +111,7 @@ public class Car {
     }
 
     public void printInfo() {
-        System.out.print("Make: " + getMake() +"\n"+ "Model: " + getModel() +"\n" + "Color: " + getColor() +"\n" +
+        System.out.println("Make: " + getMake() +"\n"+ "Model: " + getModel() +"\n" + "Color: " + getColor() +"\n" +
                 "Fuel Type: " + getFuelType() +"\n" + "Engine Volume: " + getEngine() +"\n" + "Horsepower: "
                 + getHorsePower() +"\n" + "Transmission: " + getTransmission() +"\n" + "Mileage: " + getMileage() +"\n"
                 + "Year of production: " + getYearOfProduction() +"\n" + "Price: " + getPrice() + "\n");
