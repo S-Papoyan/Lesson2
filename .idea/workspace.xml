@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e550845-5196-4ec3-8752-21f8d6501dca" name="Changes" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/src/task_array/Java.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task_array/OddArrayReverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task_array/task_Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/CarsForSale.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/Car.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +39,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.task_Arrays">
+  <component name="RunManager" selected="Application.object.main.CarsForSale">
     <configuration name="DemoBox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="task_array.DemoBox" />
       <module name="Lesson2" />
@@ -80,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="task_221_270.Task_265" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task_221_270.Task_265" />
+    <configuration name="object.main.CarsForSale" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="object.main.CarsForSale" />
       <module name="Lesson2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="task_221_270.*" />
+          <option name="PATTERN" value="object.main.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.task_Arrays" />
+        <item itemvalue="Application.object.main.CarsForSale" />
         <item itemvalue="Application.OddArrayReverse" />
+        <item itemvalue="Application.task_Arrays" />
         <item itemvalue="Application.Java" />
         <item itemvalue="Application.DemoBox" />
-        <item itemvalue="Application.task_221_270.Task_265" />
       </list>
     </recent_temporary>
   </component>
@@ -160,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653232105638</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Commit">
+      <created>1653566066899</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1653566066899</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
